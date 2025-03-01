@@ -6,9 +6,9 @@ This is a simple Python application built using customtkinter for the GUI. It ra
 
 ### Why I Built This
 
-Random why to pick problems and also easy way to get the links directly to the problem because LeetCode's website sucks and I hate going through my history.
+Randomized way to pick problems and also provide quick access to the picked problems directly. And also because LeetCode's website sucks and I hate going through my history to find what problems to do.
 
-The CSV file acts as a log of problems I’ve solved, making it easy to review and revisit them.
+The CSV file acts as a log of problems I’ve solved, making reviewing and revisiting them easy.
 
 ### Features
 
